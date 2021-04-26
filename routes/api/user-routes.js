@@ -16,10 +16,7 @@ router.post('/', async (req, res) => {
       req.session.logged_in = true;
 
       res.json({ user: userData, message: 'You are now logged in!' });
-      res.render('dashboard', { 
-        posts, 
-        logged_in: req.session.logged_in 
-      });
+
     });
   } catch (err) {
     res.status(400).json(err);
@@ -53,10 +50,10 @@ router.post('/login', async (req, res) => {
       req.session.logged_in = true;
 
       res.json({ user: userData, message: 'You are now logged in!' });
-      res.render('dashboard', { 
-        posts, 
-        logged_in: req.session.logged_in 
-      });
+      // res.render('dashboard', { 
+      //   posts, 
+      //   logged_in: req.session.logged_in 
+      // });
     });
 
   } catch (err) {
@@ -66,7 +63,7 @@ router.post('/login', async (req, res) => {
 
 router.post('/logout', (req, res) => {
   console.log(` \n\n test \n\n`);
-  console.log(` \n\n ${req.session.logged_in} \n\n`)
+  console.log(` \n\n ${req.session.logged_in} \n\n`);
   if (req.session.logged_in) {
     req.session.destroy(() => {
       res.render('homeLogin', { 
