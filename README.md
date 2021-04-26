@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="/public/images/MusiclabLogo.png" alt="Logo"/>
+    <img src="./public/images/MusiclabLogo.png" alt="Logo"/>
   </a>
 
   <h3 align="center">Music Lab</h3>
@@ -222,4 +222,8 @@ Project Link: [https://github.com/drewole/music-lab-gp](https://github.com/drewo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/drewole
 [product-screenshot]: /public/images/screenshot.png
+<<<<<<< HEAD
 [product-logo]: /public/images/musicLabLogo.png
+=======
+[product-logo]: /public/images/musicLabLogo.png
+>>>>>>> e4309ee71976cf0525f0767cca45d159b671b3b2
