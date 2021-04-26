@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="/images/musicLabLogo.png" alt="Logo"/>
+    <img src="./public/images/musicLabLogo.png" alt="Logo"/>
   </a>
 
   <h3 align="center">Music Lab</h3>
