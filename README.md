@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="./public/images/MusiclabLogo.png" alt="Logo"/>
+    <img src="/images/MusiclabLogo.png" alt="Logo"/>
   </a>
 
   <h3 align="center">Music Lab</h3>
@@ -28,14 +28,14 @@
   <p align="center">
     Make a tune, or don't. It's up to you.
     <br />
-    <a href="https://github.com/drewole/music-lab-gp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lpaschka/Music_Lab"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/drewole/music-lab-gp">View Demo</a>
+    <a href="https://github.com/lpaschka/Music_Lab">View Demo</a>
     ·
-    <a href="https://github.com/drewole/music-lab-gp/issues">Report Bug</a>
+    <a href="https://github.com/lpaschka/Music_Lab/issues">Report Bug</a>
     ·
-    <a href="https://github.com/drewole/music-lab-gp/issues">Request Feature</a>
+    <a href="https://github.com/lpaschka/Music_Lab/issues">Request Feature</a>
   </p>
 </p>
 
@@ -112,7 +112,7 @@ This is an example of how to list things you need to use the software and how to
  <!--Get a free API Key at [https://example.com](https://example.com) -->
 1. Clone the repo
    ```sh
-   git clone https://github.com/drewole/music-lab-gp.git
+   git clone https://github.com/lpaschka/Music_Lab.git
    ```
 2. Install NPM packages
    ```sh
@@ -145,8 +145,10 @@ This is an example of how to list things you need to use the software and how to
 
 Visit the site, sign up and make some music. If you would like to contribute please contact us.
 
-_For more examples, please refer to the [Documentation](https://github.com/drewole/music-lab-gp)_
+_For more examples, please refer to the [Documentation](https://github.com/lpaschka/Music_Lab)_
 
+Heroku Link:
+https://dry-wildwood-18175.herokuapp.com/
 
 
 <!-- ROADMAP -->
@@ -162,7 +164,7 @@ Planned Features:
 * Ability to download their own songs as a file to the machine for publish wherever 
 * Song categorization and tags for enhanced search
 
-<!-- See the [open issues](https://github.com/drewole/music-lab-gp/issues) for a list of proposed features (and known issues). -->
+<!-- See the [open issues](https://github.com/lpaschka/Music_Lab/issues) for a list of proposed features (and known issues). -->
 
 
 
@@ -191,9 +193,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Drew Olsen - [@drewole](https://github.com/drewole)
 Levi Schwartzberg - [@levischwartz](https://github.com/Levischwartzberg)
-Luke Paschka - [@drewole](https://github.com/lpaschka37)
+Luke Paschka - [@lpaschka](https://github.com/lpaschka37)
 
-Project Link: [https://github.com/drewole/music-lab-gp](https://github.com/drewole/music-lab-gp)
+Project Link: [https://github.com/lpaschka37/Music_Lab](https://github.com/lpaschka37/Music_Lab)
 
 
 
@@ -209,21 +211,17 @@ Project Link: [https://github.com/drewole/music-lab-gp](https://github.com/drewo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/drewole/music-lab-gp.svg?style=for-the-badge
-[contributors-url]: https://github.com/drewole/music-lab-gp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/drewole/music-lab-gp.svg?style=for-the-badge
-[forks-url]: https://github.com/drewole/music-lab-gp/network/members
-[stars-shield]: https://img.shields.io/github/stars/drewole/music-lab-gp.svg?style=for-the-badge
-[stars-url]: https://github.com/drewole/music-lab-gp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/drewole/music-lab-gp.svg?style=for-the-badge
-[issues-url]: https://github.com/drewole/music-lab-gp/issues
-[license-shield]: https://img.shields.io/github/license/drewole/music-lab-gp.svg?style=for-the-badge
-[license-url]: https://github.com/drewole/music-lab-gp/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/lpaschka/Music_Lab.svg?style=for-the-badge
+[contributors-url]: https://github.com/lpaschka/Music_Lab/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lpaschka/Music_Lab.svg?style=for-the-badge
+[forks-url]: https://github.com/lpaschka/Music_Lab/network/members
+[stars-shield]: https://img.shields.io/github/stars/lpaschka/Music_Lab.svg?style=for-the-badge
+[stars-url]: https://github.com/lpaschka/Music_Lab/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lpaschka/Music_Lab.svg?style=for-the-badge
+[issues-url]: https://github.com/lpaschka/Music_Lab/issues
+[license-shield]: https://img.shields.io/github/license/lpaschka/Music_Lab.svg?style=for-the-badge
+[license-url]: https://github.com/lpaschka/Music_Lab/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/drewole
+[linkedin-url]: https://linkedin.com/in/lpaschka
 [product-screenshot]: /public/images/screenshot.png
-<<<<<<< HEAD
 [product-logo]: /public/images/musicLabLogo.png
-=======
-[product-logo]: /public/images/musicLabLogo.png
->>>>>>> e4309ee71976cf0525f0767cca45d159b671b3b2
